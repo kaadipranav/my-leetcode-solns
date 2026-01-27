@@ -1,1 +1,1 @@
-# my-leetcode-solns
+# MY-leetcode-solns
