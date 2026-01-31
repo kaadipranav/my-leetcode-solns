@@ -10,7 +10,3 @@ class Solution:
 
         return float(median)
 
-
-
-# nums1[len(nums1)//2]
-# print(nums1[len(nums1)//2], nums1[ (len(nums1)//2) - 1])
